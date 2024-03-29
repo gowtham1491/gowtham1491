@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gowtham Arumugam</h1>
-<h3 align="center">A passionate frontend developer from Chennai</h3>
+<h3 align="center">As A fresher frontend developer from Chennai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowtham1491&label=Profile%20views&color=0e75b6&style=flat" alt="gowtham1491" /> </p>
 
